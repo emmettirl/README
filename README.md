@@ -11,6 +11,10 @@
 
 - SOFT7035: Programming for Mobile Devices
     - [Garage App (Project 1)](https://github.com/emmettirl/Garage-App-SOFT7035Project1)
+
+ - SOFT7019: C Programming
+     - [Word Matching Game (Project 1)](https://github.com/emmettirl/Word-Matching-Game-SOFT7019)
+     - [Asteroids Game Bot (Project 2](https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019)
  
 ### Onemonth Python Bootcamp:
 -  Final Project: Role Selector
