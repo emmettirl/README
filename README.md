@@ -1,5 +1,6 @@
 # Emmett Fitzharris
 ## 3rd Year Software Development Student MTU Cork
+- [LinkedIn](https://www.linkedin.com/in/emmettirl/)
 
 ### College Projects:
 - SOFT7031: Client-side Web development:
