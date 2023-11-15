@@ -16,6 +16,9 @@
  - SOFT7019: C Programming
      - [Word Matching Game (Project 1)](https://github.com/emmettirl/Word-Matching-Game-SOFT7019)
      - [Asteroids Game Bot (Project 2](https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019)
+
+- SOFT8032: Programming for Data Analytics
+    - [Assessment 2](https://github.com/emmettirl/DataAnalyticsSOFT8032Project2) WIP
  
 ### Onemonth Python Bootcamp:
 -  Final Project: Role Selector
