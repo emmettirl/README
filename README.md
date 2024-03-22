@@ -1,4 +1,4 @@
-# Emmett Fitzharris
+# Emmett F.
 ## 3rd Year Software Development Student MTU Cork
 - [LinkedIn](https://www.linkedin.com/in/emmettirl/)
 
