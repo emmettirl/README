@@ -3,7 +3,7 @@
 - [LinkedIn](https://www.linkedin.com/in/emmettirl/)
 
 ## Hobby Game Developer with [Teicsoft](https://github.com/Teicsoft)
-### [Gladiate](https://github.com/Teicsoft/GLADIATE) is now available on [itch.io](https://teicsoft.itch.io/gladiate) and [Steam](https://store.steampowered.com/app/3106750/Gladiate/)
+- [Gladiate](https://github.com/Teicsoft/GLADIATE) is now available on [itch.io](https://teicsoft.itch.io/gladiate) and [Steam](https://store.steampowered.com/app/3106750/Gladiate/)
 
 ### College Projects:
 - SOFT7031: Client-side Web development:
