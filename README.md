@@ -1,5 +1,5 @@
 # Emmett F.
-## 3rd Year Software Development Student MTU Cork
+## Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8
 - [LinkedIn](https://www.linkedin.com/in/emmettirl/)
 
 ## Hobby Game Developer with [Teicsoft](https://github.com/Teicsoft)
