@@ -99,7 +99,7 @@
     </table>
     <table>
         <tr>
-            <th width="500px">SOFT8023</th>
+            <th width="500px">SOFT8023  Distributed Sys. Programming</th>
             <th width="500px">COMP8045 Emerging Technological trends</th>
             <th width="500px">COMP7047 Open Source Projects</th>
             <th width="500px"></th>
