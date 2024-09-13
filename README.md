@@ -33,7 +33,7 @@
         <tr>
             <td><a href="https://github.com/emmettirl/Rock-Paper-Scissors-SOFT7031Project1" >Rock Paper Scissors Game (Project 1)</a></td>
             <td><a href="https://github.com/PatrykD22/healthaigroupproject" >Health AI Group Project</a></td>
-            <td><a href="https://github.com/emmettirl/Garage-App-SOFT7035Project1">Garage App (Project 1)</a>(</td>
+            <td><a href="https://github.com/emmettirl/Garage-App-SOFT7035Project1">Garage App (Project 1)</a></td>
             <td><a href="https://github.com/emmettirl/Word-Matching-Game-SOFT7019">Word Matching Game (Project 1)</a></td>
             <td><a href="https://github.com/emmettirl/DataAnalyticsSOFT8032Project2">Assessment 2</a></td>
         </tr>
@@ -55,9 +55,11 @@
     <table>
         <tr>
             <th>Onemonth Python Bootcamp</th>
+            <th>Vid2Vector</th>
         </tr>
         <tr>
-            <td>Final Project: Role Selector [Discord Bot](https://github.com/emmettirl/One-Month-Project)</td>
+            <td><a href="https://github.com/emmettirl/One-Month-Project">Final Project: Role Selector [Discord Bot]</a></td>
+            <td><a href="https://github.com/emmettirl/Vid2Vector">Github</a></td>
         </tr>
     </table>
 </p>
@@ -91,11 +93,13 @@
         <th>Java</th>
         <th>C</th>
         <th>C#</th>
+        <th>Godot</th>
     </tr>
     <tr>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python logo" /></td>
         <td><img width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c# logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot logo"/></td>
     </tr>
 </table>
