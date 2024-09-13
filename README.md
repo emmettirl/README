@@ -3,7 +3,7 @@
 
 <p align = "center">   
     <a href="https://github.com/Teicsoft">
-        <img width="100%" src="https://github.com/user-attachments/assets/f8f5ff9a-cc37-4905-b052-d727acce5baa" alt="Teicsoft Logo"/>
+        <img width="100%" src="https://github.com/user-attachments/assets/70ab7be4-417c-4222-8dcf-16b53db85465" alt="Teicsoft Logo"/>
     </a>
     <h3 align = "center">Hobby Game Developer with <a href="https://github.com/Teicsoft">Teicsoft</a></h3>
 </p>
@@ -19,16 +19,8 @@
 </p>
 
 <p align = "center">
-    <a href="https://www.linkedin.com/in/emmettirl/">
-        <img width="100%" src="https://github.com/user-attachments/assets/ad562a7c-b9cf-4162-b69a-bbf48a10ce7a" alt="LinkedIn Logo" />
-    </a>
-</p>
-
-
-
-<p align = "center">
     <a href="https://www.mtu.ie/">
-        <img width="100%" src="https://github.com/user-attachments/assets/3bcff472-9dc2-43c8-9dd9-227ac8e3ca91" alt="MTU Logo"/>
+        <img width="100%" src="https://github.com/user-attachments/assets/c3574592-91ba-4381-a766-22a36f3c98f7" alt="MTU Logo"/>
     </a>
     <h3 align = "center"> College Projects: </h3>
 
@@ -52,13 +44,17 @@
 ### Onemonth Python Bootcamp:
 -  Final Project: Role Selector
     - [Discord Bot](https://github.com/emmettirl/One-Month-Project)
-
 </p>
 
 <p align = "center">
     <a href="https://kaizokucon.com/">
-        <img width="100%" src="https://github.com/user-attachments/assets/cbd0b316-8dc1-4600-bf00-96a826af5e72" alt="Kaizoku-Con Logo" />
+        <img width="100%" src="https://github.com/user-attachments/assets/18f85d57-7c06-4f25-aec8-5978ada8582a" alt="Kaizoku-Con Logo" />
     </a>
     <h3 align = "center"> Founder, Director 2014 / 2017 </h3>
 </p>
 
+<p align = "center">
+    <a href="https://www.linkedin.com/in/emmettirl/">
+        <img width="100%" src="https://github.com/user-attachments/assets/3ec0834f-d86c-43f8-9060-a4462197c563" alt="LinkedIn Logo" />
+    </a>
+</p>
