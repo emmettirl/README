@@ -29,7 +29,7 @@
                     </ul>
                 </p>
             </td>
-            <td><img align="right" width=800px src="https://img.itch.zone/aW1nLzE2MjUyOTM0LnBuZw==/original/bIPvXK.png" alt="gladiate poster"</td>
+            <td><img align="right" width=700px src="https://img.itch.zone/aW1nLzE2MjUyOTM0LnBuZw==/original/bIPvXK.png" alt="gladiate poster"</td>
         </tr>
     </table>
     <p> Gladiate is now available on itch.io and Steam </p>
