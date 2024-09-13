@@ -2,9 +2,11 @@
 <h2 align="center">Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
 
 <p align = "center">   
+    <hr>
     <a href="https://github.com/Teicsoft">
         <img width="100%" src="https://github.com/user-attachments/assets/70ab7be4-417c-4222-8dcf-16b53db85465" alt="Teicsoft Logo"/>
     </a>
+    <hr>
     <h3 align = "center">Hobby Game Developer with <a href="https://github.com/Teicsoft">Teicsoft</a></h3>
     <p>
         Teicsoft was founded in December of 2023. A group of friends and colleagues decided to set ourselves the challenge of developing a videogame in a month. 
@@ -14,11 +16,12 @@
     <p align="center"> We recently published our first project Gladiate!</p>
     <p align="center"> Work has begun on our second project</p>
 </p>
-        
 <p align = "center">
+    <hr>
     <a href="https://github.com/Teicsoft/GLADIATE/">
         <img width="100%" src="https://github.com/user-attachments/assets/a85130cb-e4ba-49cf-9b48-1db23c479682" alt="Gladiate Logo"/>
     </a>
+    <hr>
     <table>
         <tr>
             <td>
@@ -51,9 +54,11 @@
 
 
 <p align = "center">
+    <hr>
     <a href="https://www.mtu.ie/">
         <img width="100%" src="https://github.com/user-attachments/assets/227b8daa-3292-4835-9bd4-9a22ef14aff3" alt="College Logo"/>
     </a>
+    <hr>
     <table>
         <tr>
             <th width="500px">SOFT7031: Client-side Web development:</th>
@@ -84,6 +89,7 @@
             <td></td>
         </tr>
     </table>
+    <hr>
     <table>
         <tr>
             <th width="500px">SOFT8023  Distributed Sys. Programming</th>
@@ -107,6 +113,7 @@
             <td><a href="https://github.com/emmettirl/COMP7013Assignment"> Java Assignment</td>
         </tr>
     </table>
+    <hr>
     <table>
         <tr>
             <th width="500px">SOFT6017 Modular Programming</th>
@@ -127,9 +134,11 @@
 </p>
 
 <p align = "center">
+    <hr>
     <a href="[https://kaizokucon.com/](https://github.com/emmettirl)">
         <img width="100%" src="https://github.com/user-attachments/assets/06583fae-107d-4755-9b09-4a86b375fddf" alt="Personal Logo" />
     </a>
+    <hr>
     <table>
         <tr>
             <th>Vid2Vector</th>
@@ -139,7 +148,7 @@
         </tr>
     </table>
 </p>
-
+<hr>
 <p> <h3 align="center">Continuous Learning</h3>
     <table>
         <tr>
@@ -211,9 +220,11 @@
 
 
 <p align = "center">
+    <hr>
     <a href="https://kaizokucon.com/">
         <img width="100%" src="https://github.com/user-attachments/assets/18f85d57-7c06-4f25-aec8-5978ada8582a" alt="Kaizoku-Con Logo" />
     </a>
+    <hr>
     <h3 align = "center"> Founder, Director 2014 / 2017 </h3>
     <p align = "center">
         <ul>
@@ -225,11 +236,13 @@
     </p>
 </p>
 
+<hr>
 <p align = "center">
     <a href="https://www.linkedin.com/in/emmettirl/">
         <img width="100%" src="https://github.com/user-attachments/assets/3ec0834f-d86c-43f8-9060-a4462197c563" alt="LinkedIn Logo" />
     </a>
 </p>
+<hr>
 
 
 <table>
@@ -260,3 +273,5 @@
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" alt="github logo" /></td>
     </tr>
 </table>
+
+<hr>
