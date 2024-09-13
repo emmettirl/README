@@ -139,10 +139,6 @@
             <th>Project Boost</th>
             <th>Barbarian Blaster</th>
             <th>Robo Rampage</th>
-            <th>Blender Donut</th>
-            <th>Godot_Multiplayer</th>
-            <th>React Foundations</th>
-            <th>Learn Next.js</th>
         </tr>
         <tr>
             <td>
@@ -170,6 +166,17 @@
                     Tutorial by Gamedev.tv
                 </a>
             </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Blender Donut</th>
+            <th>Godot_Multiplayer</th>
+            <th>React Foundations</th>
+            <th>Learn Next.js</th>
+            <th></th>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/emmettirl/3D_Modeling_Tutorials/tree/main/Blender/Donut" >
                     Tutorial by Blender Guru
@@ -188,6 +195,7 @@
                     Next.js Docs
                 </a>
             </td>
+            <td></td>
         </tr>
     </table>
 </p>
