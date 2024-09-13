@@ -94,6 +94,12 @@
         <th>C</th>
         <th>C#</th>
         <th>Godot</th>
+        <th>React</th>
+        <th>Next.js</th>
+        <th>Blender</th>
+        <th>Photoshop</th>
+        <th>Illustrator</th>
+        <th>Github</th>
     </tr>
     <tr>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python logo" /></td>
@@ -101,5 +107,11 @@
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c# logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot logo"/></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tabler-icons_brand-nextjs.svg/640px-Tabler-icons_brand-nextjs.svg.png" alt="next.js logo"/></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" alt="github logo" /></td>
     </tr>
 </table>
