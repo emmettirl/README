@@ -1,9 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 <h1>Emmett Fitzharris</h1>
 <h2>Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
 
