@@ -141,6 +141,8 @@
             <th>Robo Rampage</th>
             <th>Blender Donut</th>
             <th>Godot_Multiplayer</th>
+            <th>React Foundations</th>
+            <th>Learn Next.js</th>
         </tr>
         <tr>
             <td>
@@ -176,6 +178,14 @@
             <td>
                 <a href="https://github.com/emmettirl/Godot_Multiplayer" >
                     Tutorial by Gamedev.tv
+                </a>
+            </td>
+            <td><a href="https://github.com/emmettirl/React-Foundations-Next.js">
+                    Next.js Docs
+                </a>
+            </td>
+            <td><a href="https://github.com/emmettirl/Learn_Next-js">
+                    Next.js Docs
                 </a>
             </td>
         </tr>
