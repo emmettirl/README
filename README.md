@@ -50,10 +50,33 @@
 </p>
 
 <p align = "center">
+    <a href="[https://kaizokucon.com/](https://github.com/emmettirl)">
+        <img width="100%" src="https://github.com/user-attachments/assets/06583fae-107d-4755-9b09-4a86b375fddf" alt="Personal Logo" />
+    </a>
+    <table>
+        <tr>
+            <th>Onemonth Python Bootcamp</th>
+        </tr>
+        <tr>
+            <td>Final Project: Role Selector [Discord Bot](https://github.com/emmettirl/One-Month-Project)</td>
+        </tr>
+    </table>
+</p>
+
+
+<p align = "center">
     <a href="https://kaizokucon.com/">
         <img width="100%" src="https://github.com/user-attachments/assets/18f85d57-7c06-4f25-aec8-5978ada8582a" alt="Kaizoku-Con Logo" />
     </a>
     <h3 align = "center"> Founder, Director 2014 / 2017 </h3>
+    <p align = "center">
+        <ul>
+            <li>Positions held: Founder, Director, Finance officer, Ex-officio</li>
+            <li>One of the largest ever events in UCC, featuring several high profile celebrity guests.</li>
+            <li>Over 1650 attendees, approximately 120 events over a single weekend, across 8 venues.</li>
+            <li>Over €29’000 raised for Laura Lynn Children's Hospice</li>
+        </ul>
+    </p>
 </p>
 
 <p align = "center">
@@ -61,9 +84,3 @@
         <img width="100%" src="https://github.com/user-attachments/assets/3ec0834f-d86c-43f8-9060-a4462197c563" alt="LinkedIn Logo" />
     </a>
 </p>
-
-
-
-### Onemonth Python Bootcamp:
--  Final Project: Role Selector
-    - [Discord Bot](https://github.com/emmettirl/One-Month-Project)
