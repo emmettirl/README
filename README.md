@@ -1,5 +1,5 @@
 <h1>Emmett Fitzharris</h1>
-<h2>Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
+<h2 align="center">Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
 
 <p align = "center">   
     <a href="https://github.com/Teicsoft">
