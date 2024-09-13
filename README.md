@@ -7,13 +7,12 @@
     </a>
     <h3 align = "center">Hobby Game Developer with <a href="https://github.com/Teicsoft">Teicsoft</a></h3>
     <p>
-        Teicsoft was founded December of 2023. <br>
-        A group of friends and colleagues decided to set ourselves the challenge of developing a videogame in a month, with little to no experience.
-        With a group of people spanning a wide variety of skillsets from programming to sound design.<br>
-        Our main objective has been learning tooling and design by doing, then bringing skills and lessons learned into subsequent projects.<br>
-        We recently published our first project Gladiate!<br>
-        Work has begun on our second project
+        Teicsoft was founded in December of 2023. A group of friends and colleagues decided to set ourselves the challenge of developing a videogame in a month. 
+        We had little to no experience in game development and a wide variety of backgrounds, skillsets ranging from programming to sound design.
+        Our main objective has been learning tooling and design by doing, then bringing skills and lessons learned into subsequent projects.
     </p>
+    <p align="center"> We recently published our first project Gladiate!</p>
+    <p align="center"> Work has begun on our second project</p>
 </p>
         
 <p align = "center">
