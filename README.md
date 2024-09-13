@@ -20,7 +20,7 @@
 
 <p align = "center">
     <a href="https://www.mtu.ie/">
-        <img width="100%" src="https://github.com/user-attachments/assets/c3574592-91ba-4381-a766-22a36f3c98f7" alt="MTU Logo"/>
+        <img width="100%" src="https://github.com/user-attachments/assets/227b8daa-3292-4835-9bd4-9a22ef14aff3" alt="College Logo"/>
     </a>
     <h3 align = "center"> College Projects: </h3>
 
