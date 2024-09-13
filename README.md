@@ -10,7 +10,7 @@
         
 <p align = "center">
     <a href="https://github.com/Teicsoft/GLADIATE/">
-        <img width="100%" src="https://github.com/user-attachments/assets/2d1086b9-c156-4ced-a4e6-d8ef4cddf406" alt="Gladiate Logo"/>
+        <img width="100%" src="https://github.com/user-attachments/assets/a85130cb-e4ba-49cf-9b48-1db23c479682" alt="Gladiate Logo"/>
     </a>
     <p> Gladiate is now available on itch.io and Steam </p>
     <a href = "https://github.com/Teicsoft/GLADIATE/"> Github </a>
@@ -23,6 +23,8 @@
         <img width="100%" src="https://github.com/user-attachments/assets/ad562a7c-b9cf-4162-b69a-bbf48a10ce7a" alt="LinkedIn Logo" />
     </a>
 </p>
+
+
 
 <p align = "center">
     <a href="https://www.mtu.ie/">
@@ -55,7 +57,7 @@
 
 <p align = "center">
     <a href="https://kaizokucon.com/">
-        <img width="100%" src="https://github.com/user-attachments/assets/81cd7eb1-949c-4fda-8015-73e7875dc924" alt="Kaizoku-Con Logo" />
+        <img width="100%" src="https://github.com/user-attachments/assets/cbd0b316-8dc1-4600-bf00-96a826af5e72" alt="Kaizoku-Con Logo" />
     </a>
     <h3 align = "center"> Founder, Director 2014 / 2017 </h3>
 </p>
