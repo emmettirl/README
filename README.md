@@ -22,7 +22,6 @@
     <a href="https://www.mtu.ie/">
         <img width="100%" src="https://github.com/user-attachments/assets/227b8daa-3292-4835-9bd4-9a22ef14aff3" alt="College Logo"/>
     </a>
-    <h3 align = "center"> College Projects: </h3>
     <table>
         <tr>
             <th>SOFT7031: Client-side Web development:</th>
@@ -32,17 +31,17 @@
             <th>SOFT8032: Programming for Data Analytics</th>
         </tr>
         <tr>
-            <td>[Rock Paper Scissors Game (Project 1)](https://github.com/emmettirl/Rock-Paper-Scissors-SOFT7031Project1)</td>
-            <td>[Health AI Group Project](https://github.com/PatrykD22/healthaigroupproject)</td>
-            <td>[Garage App (Project 1)](https://github.com/emmettirl/Garage-App-SOFT7035Project1)</td>
-            <td>[Word Matching Game (Project 1)](https://github.com/emmettirl/Word-Matching-Game-SOFT7019)</td>
-            <td>[Assessment 2](https://github.com/emmettirl/DataAnalyticsSOFT8032Project2)</td>
+            <td><a href="https://github.com/emmettirl/Rock-Paper-Scissors-SOFT7031Project1" >Rock Paper Scissors Game (Project 1)</a></td>
+            <td><a href="https://github.com/PatrykD22/healthaigroupproject" >Health AI Group Project</a></td>
+            <td><a href="https://github.com/emmettirl/Garage-App-SOFT7035Project1">Garage App (Project 1)</a>(</td>
+            <td><a href="https://github.com/emmettirl/Word-Matching-Game-SOFT7019">Word Matching Game (Project 1)</a></td>
+            <td><a href="https://github.com/emmettirl/DataAnalyticsSOFT8032Project2">Assessment 2</a></td>
         </tr>
         <tr>
             <td></td>
-            <td>[Health AI Android App](https://github.com/emmettirl/HealthAIApp)</td>
+            <td><a href="https://github.com/emmettirl/HealthAIApp">Health AI Android App</a></td>
             <td></td>
-            <td>[Asteroids Game Bot (Project 2](https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019)</td>
+            <td><a href="https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019">Asteroids Game Bot (Project 2]</a></td>
             <td></td>
         </tr>
     </table>
