@@ -19,7 +19,7 @@
                     GLADIATE is a Spectacle Fighter Card Game built Open Source from the ground up in Godot! 
                     Play with 6 unique decks and fight your way through a gauntlet of foes. 
                     Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.
-                    Features
+                    Features:
                     <ul>
                         <li>Six decks with diffrent playstyles and unique combos.</li>
                         <li>Card and combo glossary</li>
@@ -27,16 +27,21 @@
                         <li>Unique card, deck and combo art.</li>
                         <li>High score tracking</li>
                     </ul>
+                Now available on itch.io and Steam!
                 </p>
             </td>
             <td><img align="right" width=700px src="https://img.itch.zone/aW1nLzE2MjUyOTM0LnBuZw==/original/bIPvXK.png" alt="gladiate poster"</td>
         </tr>
     </table>
-    <p> Gladiate is now available on itch.io and Steam </p>
-    <a href = "https://github.com/Teicsoft/GLADIATE/"> Github </a>
-    <a href = "https://teicsoft.itch.io/gladiate"> Itch </a>
-    <a href="https://store.steampowered.com/app/3106750/Gladiate/"> Steam </a>
+    <table align="center">
+        <tr>
+            <td><a href = "https://github.com/Teicsoft/GLADIATE/"> <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" alt="github link" /> </a></td>
+            <td><a href = "https://teicsoft.itch.io/gladiate"> <img width=50px src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io link" /> </a></td>
+            <td><a href="https://store.steampowered.com/app/3106750/Gladiate/"> <img width=50px src="https://github.com/user-attachments/assets/cceb1f87-b2d5-4c91-a662-dcc8af131054" alt="steam link" /> </a></td>
+        </tr>       
+    </table>
 </p>
+
 
 <p align = "center">
     <a href="https://www.mtu.ie/">
