@@ -96,15 +96,15 @@
             <th width="500px">SOFT8023  Distributed Sys. Programming</th>
             <th width="500px">COMP8045 Emerging Technological trends</th>
             <th width="500px">COMP7047 Open Source Projects</th>
-            <th width="500px"></th>
-            <th width="500px"></th>
+            <th width="500px">COMP7044 Systems Scripting</th>
+            <th width="500px">COMP7013 Object Oriented Programming</th>
         </tr>
         <tr>
             <td><a href="https://github.com/emmettirl/SOFT8023_Assignment2"> Assignment 2></a></td>
             <td><a href="https://github.com/emmettirl/IBM_Quantum-Shors_Algorithm">IBM Quantum - Shors Algorithm</a></td>
             <td><a href="https://github.com/emmettirl/Card_Jumper">Card Jumper</a></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://github.com/emmettirl/COMP7044_Assignment1">Assignment 1</a></td>
+            <td><a href="https://github.com/emmettirl/EmmettFitzharris_R00222357_FinalProject_OOP/tree/master">Final Project OOP</a></td>
         </tr>
         <tr>
             <td></td>
