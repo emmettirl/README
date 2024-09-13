@@ -1,10 +1,4 @@
 <h1>Emmett Fitzharris</h1>
-
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=53&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&height=75&lines=Indie+Game+Developer;Software+Engineer;Irish;Teicn%C3%B3gaigh;Community+Driven;Nerd;Teicsoft;Project+Manager;Newbie+Artist;Dullahan;Student" alt="Typing SVG" /></a>
-</p>
-<!--https://github.com/DenverCoder1/readme-typing-svg-->
-
 <h2 align="center">Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
 
 <p align = "center">   
@@ -279,3 +273,9 @@
 </table>
 
 <hr>
+
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=53&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Indie+Game+Developer;Software+Engineer;Irish+Nerd;Teicn%C3%B3gaigh;Community+Driven;Teicsoft;Project+Manager;Newbie+Artist;Dullahan;Eternal+Student;GLADIATE!" alt="Typing SVG" /></a>
+</p>
+<!--https://github.com/DenverCoder1/readme-typing-svg-->
