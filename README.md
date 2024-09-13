@@ -6,7 +6,7 @@
         <img width="100%" src="https://github.com/user-attachments/assets/70ab7be4-417c-4222-8dcf-16b53db85465" alt="Teicsoft Logo"/>
     </a>
     <h3 align = "center">Hobby Game Developer with <a href="https://github.com/Teicsoft">Teicsoft</a></h3>
-    <p align="center">
+    <p>
         Teicsoft was founded December of 2023. <br>
         A group of friends and colleagues decided to set ourselves the challenge of developing a videogame in a month, with little to no experience.
         With a group of people spanning a wide variety of skillsets from programming to sound design.<br>
