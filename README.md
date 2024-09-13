@@ -1,3 +1,9 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 <h1>Emmett Fitzharris</h1>
 <h2>Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
 
@@ -56,11 +62,11 @@
     </a>
     <table>
         <tr>
-            <th>SOFT7031: Client-side Web development:</th>
-            <th>SOFT7003: Group Project</th>
-            <th>SOFT7035: Programming for Mobile Devices</th>
-            <th>SOFT7019: C Programming</th>
-            <th>SOFT8032: Programming for Data Analytics</th>
+            <th width="500px">SOFT7031: Client-side Web development:</th>
+            <th width="500px">SOFT7003: Group Project</th>
+            <th width="500px">SOFT7035: Programming for Mobile Devices</th>
+            <th width="500px">SOFT7019: C Programming</th>
+            <th width="500px">SOFT8032: Programming for Data Analytics</th>
         </tr>
         <tr>
             <td><a href="https://github.com/emmettirl/Rock-Paper-Scissors-SOFT7031Project1" >Rock Paper Scissors Game (Project 1)</a></td>
@@ -93,11 +99,11 @@
     </table>
     <table>
         <tr>
-            <th>SOFT8023</th>
-            <th>COMP8045 Emerging Technological trends</th>
-            <th>COMP7047 Open Source Projects</th>
-            <th></th>
-            <th></th>
+            <th width="500px">SOFT8023</th>
+            <th width="500px">COMP8045 Emerging Technological trends</th>
+            <th width="500px">COMP7047 Open Source Projects</th>
+            <th width="500px"></th>
+            <th width="500px"></th>
         </tr>
         <tr>
             <td><a href="https://github.com/emmettirl/SOFT8023_Assignment2"> Assignment 2></a></td>
@@ -134,11 +140,11 @@
 <p> <h3 align="center">Continuous Learning</h3>
     <table>
         <tr>
-            <th>Role Selector [Discord Bot]</th>
-            <th>Dodge The Creeps</th>
-            <th>Project Boost</th>
-            <th>Barbarian Blaster</th>
-            <th>Robo Rampage</th>
+            <th width="500px">Role Selector [Discord Bot]</th>
+            <th width="500px">Dodge The Creeps</th>
+            <th width="500px">Project Boost</th>
+            <th width="500px">Barbarian Blaster</th>
+            <th width="500px">Robo Rampage</th>
         </tr>
         <tr>
             <td>
@@ -170,11 +176,11 @@
     </table>
     <table>
         <tr>
-            <th>Blender Donut</th>
-            <th>Godot_Multiplayer</th>
-            <th>React Foundations</th>
-            <th>Learn Next.js</th>
-            <th></th>
+            <th width="500px">Blender Donut</th>
+            <th width="500px">Godot_Multiplayer</th>
+            <th width="500px">React Foundations</th>
+            <th width="500px">Learn Next.js</th>
+            <th width="500px"></th>
         </tr>
         <tr>
             <td>
