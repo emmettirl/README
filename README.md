@@ -70,10 +70,47 @@
             <td><a href="https://github.com/emmettirl/DataAnalyticsSOFT8032Project2">Assessment 2</a></td>
         </tr>
         <tr>
-            <td></td>
+            <td><a href="https://github.com/emmettirl/WebsiteRedesign_CorkPennyDinners_SOFT7031Project2" > Website Redesign Cork Penny Dinners </td>
             <td><a href="https://github.com/emmettirl/HealthAIApp">Health AI Android App</a></td>
             <td></td>
             <td><a href="https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019">Asteroids Game Bot (Project 2]</a></td>
+            <td><a href="https://github.com/emmettirl/SOFT8032A3" > Assignment 3 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/emmettirl/HealthAIAPI"> Health AI API</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>SOFT8023</th>
+            <th>COMP8045 Emerging Technological trends</th>
+            <th>COMP7047 Open Source Projects</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/emmettirl/SOFT8023_Assignment2"> Assignment 2></a></td>
+            <td><a href="https://github.com/emmettirl/IBM_Quantum-Shors_Algorithm">IBM Quantum - Shors Algorithm</a></td>
+            <td><a href="https://github.com/emmettirl/Card_Jumper">Card Jumper</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
             <td></td>
         </tr>
     </table>
