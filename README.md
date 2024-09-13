@@ -16,9 +16,17 @@
         <tr>
             <td>
                 <p>
-                    GLADIATE is a Spectacle Fighter Card Game. 
+                    GLADIATE is a Spectacle Fighter Card Game built Open Source from the ground up in Godot! 
                     Play with 6 unique decks and fight your way through a gauntlet of foes. 
                     Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.
+                    Features
+                    <ul>
+                        <li>Six decks with diffrent playstyles and unique combos.</li>
+                        <li>Card and combo glossary</li>
+                        <li>Five music tracks and a slew of sound effects</li>
+                        <li>Unique card, deck and combo art.</li>
+                        <li>High score tracking</li>
+                    </ul>
                 </p>
             </td>
             <td><img align="right" width=800px src="https://img.itch.zone/aW1nLzE2MjUyOTM0LnBuZw==/original/bIPvXK.png" alt="gladiate poster"</td>
