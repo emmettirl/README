@@ -51,11 +51,10 @@
     </table>
 </p>
 
-
 <p align = "center">
     <hr>
     <a href="https://www.mtu.ie/">
-        <img width="100%" src="https://github.com/user-attachments/assets/227b8daa-3292-4835-9bd4-9a22ef14aff3" alt="College Logo"/>
+        <img width="100%" src="https://github.com/user-attachments/assets/cf2668b7-61ff-4495-861f-3ae51b9bd9b7" alt="College Logo"/>      
     </a>
     <hr>
     <table>
