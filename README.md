@@ -2,7 +2,6 @@
 <h2 align="center">Bsc. Software Development MTU Cork, studying to achive Bsc.(Hons) Level 8</h2>
 
 <p align = "center">   
-    <hr>
     <a href="https://github.com/Teicsoft">
         <img width="100%" src="https://github.com/user-attachments/assets/70ab7be4-417c-4222-8dcf-16b53db85465" alt="Teicsoft Logo"/>
     </a>
