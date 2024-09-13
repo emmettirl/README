@@ -110,6 +110,29 @@
             <td></td>
             <td></td>
             <td></td>
+            <td><a href="https://github.com/emmettirl/COMP7044_Assignment2"> Assignment 2</a></td>
+            <td><a href="https://github.com/emmettirl/COMP7013Assignment"> Java Assignment</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th width="500px">SOFT6017 Modular Programming</th>
+            <th width="500px">SOFT6018 Programming Fundamentals</th>
+            <th width="500px"></th>
+            <th width="500px"></th>
+            <th width="500px"></th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/emmettirl/SOFT6017_ModularProgramming_Project"> Project</a></td>
+            <td><a href="https://github.com/emmettirl/Project"> Project </a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
