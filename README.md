@@ -86,12 +86,61 @@
     </a>
     <table>
         <tr>
-            <th>Onemonth Python Bootcamp</th>
             <th>Vid2Vector</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/emmettirl/One-Month-Project">Final Project: Role Selector [Discord Bot]</a></td>
             <td><a href="https://github.com/emmettirl/Vid2Vector">Github</a></td>
+        </tr>
+    </table>
+</p>
+
+<p> <h3 align="center">Continuous Learning</h3>
+    <table>
+        <tr>
+            <th>Role Selector [Discord Bot]</th>
+            <th>Dodge The Creeps</th>
+            <th>Project Boost</th>
+            <th>Barbarian Blaster</th>
+            <th>Robo Rampage</th>
+            <th>Blender Donut</th>
+            <th>Godot_Multiplayer</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/emmettirl/One-Month-Project">
+                    Onemonth Python Bootcamp: Final Project
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/emmettirl/Dodge_The_Creeps" >
+                    Tutorial from the Godot Docs
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/emmettirl/ProjectBoost" >
+                    Tutorial by Gamedev.tv
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/emmettirl/BarbarianBlaster" >
+                    Tutorial by Gamedev.tv
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/emmettirl/RoboRampage" >
+                    Tutorial by Gamedev.tv
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/emmettirl/3D_Modeling_Tutorials/tree/main/Blender/Donut" >
+                    Tutorial by Blender Guru
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/emmettirl/Godot_Multiplayer" >
+                    Tutorial by Gamedev.tv
+                </a>
+            </td>
         </tr>
     </table>
 </p>
