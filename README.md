@@ -83,13 +83,6 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </table>
     <table>
         <tr>
@@ -125,13 +118,6 @@
         <tr>
             <td><a href="https://github.com/emmettirl/SOFT6017_ModularProgramming_Project"> Project</a></td>
             <td><a href="https://github.com/emmettirl/Project"> Project </a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
