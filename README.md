@@ -84,3 +84,19 @@
         <img width="100%" src="https://github.com/user-attachments/assets/3ec0834f-d86c-43f8-9060-a4462197c563" alt="LinkedIn Logo" />
     </a>
 </p>
+
+
+<table>
+    <tr>
+        <th>Python</th>
+        <th>Java</th>
+        <th>C</th>
+        <th>C#</th>
+    </tr>
+    <tr>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python logo" /></td>
+        <td><img width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" /></td>
+        <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c# logo" /></td>
+    </tr>
+</table>
