@@ -23,27 +23,30 @@
         <img width="100%" src="https://github.com/user-attachments/assets/227b8daa-3292-4835-9bd4-9a22ef14aff3" alt="College Logo"/>
     </a>
     <h3 align = "center"> College Projects: </h3>
+    <table>
+        <tr>
+            <th>SOFT7031: Client-side Web development:</th>
+            <th>SOFT7003: Group Project</th>
+            <th>SOFT7035: Programming for Mobile Devices</th>
+            <th>SOFT7019: C Programming</th>
+            <th>SOFT8032: Programming for Data Analytics</th>
+        </tr>
+        <tr>
+            <td>[Rock Paper Scissors Game (Project 1)](https://github.com/emmettirl/Rock-Paper-Scissors-SOFT7031Project1)</td>
+            <td>[Health AI Group Project](https://github.com/PatrykD22/healthaigroupproject)</td>
+            <td>[Garage App (Project 1)](https://github.com/emmettirl/Garage-App-SOFT7035Project1)</td>
+            <td>[Word Matching Game (Project 1)](https://github.com/emmettirl/Word-Matching-Game-SOFT7019)</td>
+            <td>[Assessment 2](https://github.com/emmettirl/DataAnalyticsSOFT8032Project2)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>[Health AI Android App](https://github.com/emmettirl/HealthAIApp)</td>
+            <td></td>
+            <td>[Asteroids Game Bot (Project 2](https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019)</td>
+            <td></td>
+        </tr>
+    </table>
 
-- SOFT7031: Client-side Web development:
-    - [Rock Paper Scissors Game (Project 1)](https://github.com/emmettirl/Rock-Paper-Scissors-SOFT7031Project1)
-
-- SOFT7003: Group Project
-    - [Health AI Group Project](https://github.com/PatrykD22/healthaigroupproject)
-    - [Health AI Android App](https://github.com/emmettirl/HealthAIApp)
-
-- SOFT7035: Programming for Mobile Devices
-    - [Garage App (Project 1)](https://github.com/emmettirl/Garage-App-SOFT7035Project1)
-
- - SOFT7019: C Programming
-     - [Word Matching Game (Project 1)](https://github.com/emmettirl/Word-Matching-Game-SOFT7019)
-     - [Asteroids Game Bot (Project 2](https://github.com/emmettirl/Asteroids-Game-Bot-SOFT7019)
-
-- SOFT8032: Programming for Data Analytics
-    - [Assessment 2](https://github.com/emmettirl/DataAnalyticsSOFT8032Project2) WIP
- 
-### Onemonth Python Bootcamp:
--  Final Project: Role Selector
-    - [Discord Bot](https://github.com/emmettirl/One-Month-Project)
 </p>
 
 <p align = "center">
@@ -58,3 +61,9 @@
         <img width="100%" src="https://github.com/user-attachments/assets/3ec0834f-d86c-43f8-9060-a4462197c563" alt="LinkedIn Logo" />
     </a>
 </p>
+
+
+
+### Onemonth Python Bootcamp:
+-  Final Project: Role Selector
+    - [Discord Bot](https://github.com/emmettirl/One-Month-Project)
