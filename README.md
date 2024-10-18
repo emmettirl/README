@@ -251,6 +251,7 @@
         <th>C#</th>
         <th>Godot</th>
         <th>React</th>
+        <th>Deno</th>
         <th>Next.js</th>
         <th>Blender</th>
         <th>Photoshop</th>
@@ -264,6 +265,7 @@
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c# logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot logo"/></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react logo" /></td>
+        <td><img width="50px" src="https://github.com/user-attachments/assets/0f23c69a-12cd-4e19-98ce-d35de01ae457" alt="Deno logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tabler-icons_brand-nextjs.svg/640px-Tabler-icons_brand-nextjs.svg.png" alt="next.js logo"/></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender logo" /></td>
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop logo" /></td>
@@ -271,9 +273,6 @@
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" alt="github logo" /></td>
     </tr>
 </table>
-
-<hr>
-
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=53&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Indie+Game+Developer;Software+Engineer;Irish+Nerd;Teicn%C3%B3gaigh;Community+Driven;Teicsoft;Project+Manager;Newbie+Artist;Dullahan;Eternal+Student;GLADIATE!" alt="Typing SVG" /></a>
