@@ -1,25 +1,35 @@
 <h1>Emmett Fitzharris</h1>
-<h2 align="center">Bsc. Software Development MTU Cork, studying to achieve Bsc.(Hons) Level 8</h2>
+<h2 align="center">Bsc. Software Development MTU Cork (with distinction), studying to achieve Bsc.(Hons) Level 8</h2>
 
 <p align = "center">   
-    <a href="https://github.com/Teicsoft">
-        <img width="100%" src="https://github.com/user-attachments/assets/70ab7be4-417c-4222-8dcf-16b53db85465" alt="Teicsoft Logo"/>
-    </a>
-    <hr>
-    <h3 align = "center">Hobby Game Developer with <a href="https://github.com/Teicsoft">Teicsoft</a></h3>
-    <p>
-        Teicsoft was founded in December of 2023. A group of friends and colleagues decided to set ourselves the challenge of developing a videogame in a month. 
-        We had little to no experience in game development and a wide variety of backgrounds, skillsets ranging from programming to sound design.
-        Our main objective has been learning tooling and design by doing, then bringing skills and lessons learned into subsequent projects.
-    </p>
-    <p align="center"> We recently published our first project Gladiate!</p>
-    <p align="center"> Work has begun on our second project</p>
+    <details open>
+        <summary>
+            <picture>
+                <img width="100%" src="https://github.com/user-attachments/assets/70ab7be4-417c-4222-8dcf-16b53db85465" alt="Teicsoft Logo" class="non-clickable"/>
+            </picture>
+            <p align= "right"><em>Click headers to open/close sections!</em></p>
+        </summary>    
+        <p>
+            <hr>
+            <h3 align = "center">Hobby Game Developer with <a href="https://github.com/Teicsoft">Teicsoft</a></h3>
+            <p>
+                Teicsoft was founded in December of 2023. A group of friends and colleagues decided to set ourselves the challenge of developing a videogame in a month. 
+                We had little to no experience in game development and a wide variety of backgrounds, skillsets ranging from programming to sound design.
+                Our main objective has been learning tooling and design by doing, then bringing skills and lessons learned into subsequent projects.
+            </p>
+            <p align="center"> We recently published our first project Gladiate!</p>
+            <p align="center"> Work has begun on our second project</p>
+        </p>
+    </details>
 </p>
 <p align = "center">
     <hr>
-    <a href="https://github.com/Teicsoft/GLADIATE/">
+    <details open>
+        <summary>
+            <picture>
         <img width="100%" src="https://github.com/user-attachments/assets/a85130cb-e4ba-49cf-9b48-1db23c479682" alt="Gladiate Logo"/>
-    </a>
+            </picture>
+        </summary>
     <hr>
     <table>
         <tr>
@@ -49,13 +59,18 @@
             <td><a href="https://store.steampowered.com/app/3106750/Gladiate/"> <img width=50px src="https://github.com/user-attachments/assets/cceb1f87-b2d5-4c91-a662-dcc8af131054" alt="steam link" /> </a></td>
         </tr>       
     </table>
+    </details>
 </p>
+
 
 <p align = "center">
     <hr>
-    <a href="https://www.mtu.ie/">
+    <details>
+        <summary>
+            <picture>
         <img width="100%" src="https://github.com/user-attachments/assets/cf2668b7-61ff-4495-861f-3ae51b9bd9b7" alt="College Logo"/>      
-    </a>
+            </picture>
+        </summary>
     <hr>
     <table>
         <tr>
@@ -128,14 +143,17 @@
             <td></td>
         </tr>
     </table>
-
+    </details>
 </p>
 
 <p align = "center">
     <hr>
-    <a href="[https://kaizokucon.com/](https://github.com/emmettirl)">
-        <img width="100%" src="https://github.com/user-attachments/assets/06583fae-107d-4755-9b09-4a86b375fddf" alt="Personal Logo" />
-    </a>
+    <details>
+        <summary>
+            <picture>
+                <img width="100%" src="https://github.com/user-attachments/assets/06583fae-107d-4755-9b09-4a86b375fddf" alt="Personal Logo" />
+            </picture>
+        </summary>
     <hr>
     <table>
         <tr>
@@ -214,6 +232,7 @@
             <td></td>
         </tr>
     </table>
+    </details>
 </p>
 
 <hr>
