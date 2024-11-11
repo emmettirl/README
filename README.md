@@ -3,7 +3,6 @@
 
 
 <p align = "center">
-    <hr>
     <details open>
         <summary>
             <picture>
@@ -44,6 +43,7 @@
 </p>
 
 <p align = "center">   
+    <hr>
     <details>
         <summary>
             <picture>
