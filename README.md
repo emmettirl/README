@@ -216,24 +216,6 @@
     </table>
 </p>
 
-
-<p align = "center">
-    <hr>
-    <a href="https://kaizokucon.com/">
-        <img width="100%" src="https://github.com/user-attachments/assets/18f85d57-7c06-4f25-aec8-5978ada8582a" alt="Kaizoku-Con Logo" />
-    </a>
-    <hr>
-    <h3 align = "center"> Founder, Director 2014 / 2017 </h3>
-    <p align = "center">
-        <ul>
-            <li>Positions held: Founder, Director, Finance officer, Ex-officio</li>
-            <li>One of the largest ever events in UCC, featuring several high profile celebrity guests.</li>
-            <li>Over 1650 attendees, approximately 120 events over a single weekend, across 8 venues.</li>
-            <li>Over €29’000 raised for Laura Lynn Children's Hospice</li>
-        </ul>
-    </p>
-</p>
-
 <hr>
 <p align = "center">
     <a href="https://www.linkedin.com/in/emmettirl/">
