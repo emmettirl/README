@@ -255,8 +255,3 @@
         <td><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" alt="github logo" /></td>
     </tr>
 </table>
-
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=53&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Indie+Game+Developer;Software+Engineer;Irish+Nerd;Teicn%C3%B3gaigh;Community+Driven;Teicsoft;Project+Manager;Newbie+Artist;Dullahan;Eternal+Student;GLADIATE!" alt="Typing SVG" /></a>
-</p>
-<!--https://github.com/DenverCoder1/readme-typing-svg-->
