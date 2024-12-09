@@ -160,9 +160,11 @@
     <table>
         <tr>
             <th>Vid2Vector</th>
+            <th>HSR Code Redeemer</th>
         </tr>
         <tr>
             <td><a href="https://github.com/emmettirl/Vid2Vector">Github</a></td>
+            <td><a href="https://github.com/emmettirl/HSRRedemptionCodes/tree/master">Github</td>
         </tr>
     </table>
 </p>
