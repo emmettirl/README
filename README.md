@@ -133,17 +133,36 @@
         <tr>
             <th width="500px">SOFT6017 Modular Programming</th>
             <th width="500px">SOFT6018 Programming Fundamentals</th>
-            <th width="500px"></th>
-            <th width="500px"></th>
-            <th width="500px"></th>
+            <th width="500px">COMP8043 Machine Learning</th>
+            <th width="500px">COMP9069 Robotics & Autonomous Systems</th>
+            <th width="500px">COMP8049 Embedded Systems Engineering</th>
         </tr>
         <tr>
             <td><a href="https://github.com/emmettirl/SOFT6017_ModularProgramming_Project"> Project</a></td>
             <td><a href="https://github.com/emmettirl/Project"> Project </a></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://github.com/emmettirl/MachineLearning_Assignment1">Assignment 1</a></td>
+            <td><a href="https://github.com/emmettirl/Robotics_Assignment1">Assignment 1</a></td>
+            <td><a href="https://github.com/emmettirl/Lab01_EmbeddedSystemsEngineering">Lab 1</a></td>
         </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><a href="https://github.com/emmettirl/MachineLearning_Assignment2">Assignment 2</a></td>
+            <td><a href="https://github.com/emmettirl/RoboticsAndAutonomousSystems_Assignment2">Assignment 2</a></td>
+            <td><a href="https://github.com/emmettirl/Lab02_EmbeddedSystemsEngineering">Lab 2</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><a href="https://github.com/emmettirl/MachineLearning_Assignment3">Assignment 3</a></td>
+            <td></td>
+            <td><a href="https://github.com/emmettirl/ProjectA_EmbeddedSystemsEngineering">Project A</a></td>
+        </tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://github.com/emmettirl/ProjectB_EmbeddedSystemsEngineering">Project B</a></td>
     </table>
     </details>
 </p>
